@@ -30,7 +30,7 @@ sonarqube {
     properties {
         property "sonar.sourceEncoding", "UTF-8"
                 property "sonar.projectName", "gradle-javaWebbApp-project"
-                property "sonar.host.url", "http://54.90.214.231:9000"
+                property "sonar.host.url", "http://172.31.31.143:9000"
                 property "sonar.login", "b985d4e44063e47f7f828a90e5ae464f0fd20485"
     }
 }
